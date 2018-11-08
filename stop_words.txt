@@ -1,4 +1,10 @@
 
+groupmessage&isappinstalled
+2&srcid
+有没有
+的人
+timeline&isappinstalled
+0#wechat_redirect
 1&sn
 问题
 mid
